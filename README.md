@@ -1,9 +1,5 @@
 # Hi, I'm Guy 👋 
 
-### Director of Product Management | Fintech & AI Transformation | PMP®
-
-I’m a product leader at **Fiserv**, architecting the future of global payment ecosystems. Based in New Jersey, I specialize in the intersection of high-scale financial infrastructure and AI-driven process optimization. I’m passionate about building high-performing teams and leveraging modern development tools to shrink the gap between idea and execution.
----
 ##  Featured Prototypes
 I actively prototype to explore new UX patterns and investment logic. Check out my latest work on Replit:
 
@@ -21,4 +17,8 @@ I actively prototype to explore new UX patterns and investment logic. Check out 
 * **Modern Workflow:** Power-user of **Claude Cowork**, **Cursor**, and **Replit** for rapid prototyping and code-assisted product development.
 * **AI & Data:** Generative AI implementation, LLM orchestration, and Financial Data Analysis.
 ---
-[LinkedIn](https://www.linkedin.com/in/gcalabro)
+## About Me
+### Director of Product Management | Fintech & AI Transformation | PMP®
+
+I’m a product leader at **Fiserv**, architecting the future of global payment ecosystems. Based in New Jersey, I specialize in the intersection of high-scale financial infrastructure and AI-driven process optimization. I’m passionate about building high-performing teams and leveraging modern development tools to shrink the gap between idea and execution.
+---

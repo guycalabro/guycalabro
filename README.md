@@ -1,7 +1,7 @@
 # Hi, I'm Guy 👋 
 
 ##  Featured Prototypes
-I actively prototype to explore new UX patterns and investment logic. Check out my latest work on Replit:
+I actively prototype to explore new tools and logic. Check out my latest work on Replit:
 
 * **[Kiosk App Builder](https://kiosk-app-builder.replit.app/)** – A streamlined tool for interactive interface architecture.
 * **[Legendary Investor Recommendations](https://legendary-investor-stock-recommendations.replit.app/)** – An engine modeled on the strategies of world-renowned investors.
@@ -13,7 +13,7 @@ I actively prototype to explore new UX patterns and investment logic. Check out 
 * **Fintech Strategy:** Navigating complex payment landscapes and regulatory requirements at a global scale.
 
 ## Tech Stack & Tools
-* **Strategic Leadership:** Product Strategy, Agile PMP®, Stakeholder Management, Team Scaling.
+* **Strategic Leadership:** Product Strategy, PMP®, Stakeholder Management, Team Scaling.
 * **Modern Workflow:** Power-user of **Claude Cowork**, **Cursor**, and **Replit** for rapid prototyping and code-assisted product development.
 * **AI & Data:** Generative AI implementation, LLM orchestration, and Financial Data Analysis.
 ---
